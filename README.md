@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jaypopat
+- 🌱 I’m currently learning C/C++/HTML/JS
+- 📫 How to contact me - contact.jaypopat@gmail.com

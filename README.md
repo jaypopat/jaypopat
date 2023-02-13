@@ -23,8 +23,8 @@
 - JavaScript
 
 ## 🍺 Connect with Me
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://www.twitter.com)
+- [LinkedIn](https://www.linkedin.com/in/jaypopat345/)
+- [Twitter](https://twitter.com/Jay_Popat1)
 - <a href="mailto:contact.jaypopat@gmail.com">Mail</a>
 
 Feel free to reach out to me on any of these platforms, I'd love to connect with you!

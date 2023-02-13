@@ -15,7 +15,7 @@
 
 🌱 Additionally, I am learning more about Artificial Intelligence and Blockchain and I am eager to explore the potential these technologies have for shaping the future.
 
-## Tech Stack
+## 💻Tech Stack
 
 - Python
 - C & C++

@@ -5,34 +5,26 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Currently learning Python,C,C++ and JS
-- 💼 &nbsp; Actively looking for internship opportunities
-- 🌱 &nbsp; Learning more about Artificial Intelligence and Blockchain.
+👨🏻‍💻 I am an enthusiastic and driven individual who is constantly exploring new technologies. I am always looking for new challenges and opportunities to improve my skills.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![CLion](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Visual studio](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+🤔 I am interested in discovering new and innovative ways to solve problems and I am always willing to learn and adapt to new technologies.
 
-<br/>
-<p>Actively looking for internship opportunities</p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+🎓 Currently, I am learning Python, C, C++, and JavaScript and I am eager to put my skills to the test in real-world projects.
 
-<h3> 🍺 &nbsp;Connect with Me </h3>
+💼 I am actively seeking internship opportunities to gain practical experience and work on exciting projects.
 
-<p align="center">
-<a href="https://jaypopat.github.io/CV/"><img alt="Website" src="https://www.flaticon.com/free-icon/online-resume_4300445?term=portfolio+website&page=1&position=5&origin=search&related_id=4300445"></a>
-<a href="https://www.linkedin.com/in/jaypopat345/"><img alt="LinkedIn" src="https://www.flaticon.com/free-icon/linkedin_145807?term=linkedin&page=1&position=5&origin=search&related_id=145807"></a>
-<a href="mailto:contact.jaypopat@gmail.com"><img alt="Email" src="https://www.flaticon.com/free-icon/gmail_732200?term=mail&page=1&position=7&origin=search&related_id=732200"></a>
-</p>
+🌱 Additionally, I am learning more about Artificial Intelligence and Blockchain and I am eager to explore the potential these technologies have for shaping the future.
 
+## Tech Stack
 
+- Python
+- C & C++
+- Swift
+- JavaScript
 
+## 🍺 Connect with Me
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://www.twitter.com)
+- <a href="mailto:contact.jaypopat@gmail.com">Mail</a>
+
+Feel free to reach out to me on any of these platforms, I'd love to connect with you!

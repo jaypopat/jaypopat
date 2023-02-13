@@ -24,8 +24,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![CLion](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Visual studio](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-
 <br/>
 
 <h3> 🍺 &nbsp;Connect with Me </h3>

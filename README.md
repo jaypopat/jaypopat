@@ -18,7 +18,7 @@
 ## 💻Tech Stack
 
 - Python
-- C & C++
+- C
 - JavaScript
 - Java & Kotlin
 

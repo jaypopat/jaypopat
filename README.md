@@ -19,8 +19,8 @@
 
 - Python
 - C & C++
-- Swift
 - JavaScript
+- Java & Kotlin
 
 ## 🍺 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jaypopat345/)

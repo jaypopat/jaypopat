@@ -9,7 +9,7 @@
 
 🤔 I am interested in discovering new and innovative ways to solve problems and I am always willing to learn and adapt to new technologies.
 
-🎓 Currently, I am learning Python, C, C++, and JavaScript and I am eager to put my skills to the test in real-world projects.
+🎓 Currently, I am learning Node Js , MongoDB and React
 
 💼 I am actively seeking internship opportunities to gain practical experience and work on exciting projects.
 

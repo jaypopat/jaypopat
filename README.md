@@ -20,7 +20,7 @@
 - Python
 - C
 - JavaScript
-- Java & Kotlin
+- Java
 
 ## 🍺 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jaypopat345/)

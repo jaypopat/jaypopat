@@ -9,7 +9,7 @@
 
 🤔 I am interested in discovering new and innovative ways to solve problems and I am always willing to learn and adapt to new technologies.
 
-🎓 Currently, I am learning Node Js , MongoDB and React
+🎓 Currently, I am learning Node Js , MongoDB,React and Rust
 
 💼 I am actively seeking internship opportunities to gain practical experience and work on exciting projects.
 

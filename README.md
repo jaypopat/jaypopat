@@ -15,6 +15,8 @@
 
 🌱 Additionally, I am learning more about Blockchain and I am eager to explore the potential these technologies have for shaping the future.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypopat&hide_progress=true)
+
 ## 💻Tech Stack
 
 - Rust

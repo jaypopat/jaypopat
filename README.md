@@ -9,7 +9,7 @@
 
 🤔 I am interested in discovering new and innovative ways to solve problems and I am always willing to learn and adapt to new technologies.
 
-🎓 Currently, I am learning Node Js , MongoDB,React and Rust
+🎓 Currently, I am learning Rust and smart contract development
 
 💼 I am actively seeking internship opportunities to gain practical experience and work on exciting projects.
 
@@ -17,10 +17,10 @@
 
 ## 💻Tech Stack
 
-- Python
-- C
-- JavaScript
+- Rust
+- JavaScript (ReactJS,NodeJS)
 - Java
+- C
 
 ## 🍺 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jaypopat345/)

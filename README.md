@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 <h1 align="center">I'm Jay Popat</h1>
 <h3 align="center">A Computer Science Student</h3>
 

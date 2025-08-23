@@ -1,4 +1,4 @@
-<h1 align="center">I'm Jay Popat</h1>
+<h1 align="center">I'm Jay</h1>
 <h3 align="center">A Computer Science Student</h3>
 
 ## 👨🏻‍💻 About Me
@@ -10,30 +10,14 @@
   - Studying **distributed systems**, a topic that fascinates me.
   - Enhancing my problem-solving abilities through **data structures** and **algorithms** on platforms like LeetCode.
 
-## 💼 Internship Goals
-
-I am actively seeking internship opportunities to gain practical experience and contribute to exciting projects in the tech industry.
-
 🌱 Current Learning
-
-- Blockchain Technology
-- Scalable and Distributed Backends
+- Scalable and Distributed Systems
 - Data Structures and Algorithms (DSA)
 
 ## 💻 Tech Stack
 
 ### Languages
-- Rust
-- JavaScript (ReactJS, Next.js, Node.js)
-- Java
-- C
-
-### Frameworks & Tools
-- Substrate
-- NextJS
-- Docker
-- NodeJS
-- Actix / Axum
+- Rust/Tyepscript
 
 ## 📫 Get in Touch
 

@@ -17,7 +17,7 @@
 ## 💻 Tech Stack
 
 ### Languages
-- Rust/Tyepscript
+- Rust/Typescript/Go
 
 ## 📫 Get in Touch
 
